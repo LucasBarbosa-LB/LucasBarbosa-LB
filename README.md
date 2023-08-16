@@ -1,7 +1,7 @@
 # Olá Bem vindo!
 
   My name is Lucas Da Silva Barbosa, I am a student of information systems. I live in Brazil  . And I love technology  and Games🧑🏻‍💻.
--   📍  From ES living in Grande Vitória.
+-   📍  From ES living in Greater Vitória.
 -   💻 Eternal student of technology
 -   💻 Developer fullstack
 Reach me out 👇🏼[
